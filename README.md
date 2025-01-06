@@ -15,4 +15,9 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/TanmaySawankar390/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
