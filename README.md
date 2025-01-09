@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
