@@ -20,6 +20,7 @@
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
+| [3468-find-the-encrypted-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Trie
 |  |
 | ------- |
