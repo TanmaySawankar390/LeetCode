@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
+| [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/3468-find-the-encrypted-string) |
 ## Trie
 |  |
@@ -41,6 +43,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +61,8 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmaySawankar390/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Simulation
+|  |
+| ------- |
+| [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 <!---LeetCode Topics End-->
