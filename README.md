@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
