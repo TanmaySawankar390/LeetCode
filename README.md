@@ -1,5 +1,5 @@
 # LeetCode
-.
+This is my Leetcode Question solving GitHub Repository showcasing my daily performance on Leetcode.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
