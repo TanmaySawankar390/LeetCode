@@ -16,6 +16,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0015-3sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Tree
 |  |
 | ------- |
@@ -82,11 +84,13 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,4 +108,16 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
+## Segment Tree
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
+## Ordered Set
+|  |
+| ------- |
+| [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 <!---LeetCode Topics End-->
