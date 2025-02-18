@@ -33,6 +33,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [3468-find-the-encrypted-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/3468-find-the-encrypted-string) |
@@ -50,6 +51,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0009-palindrome-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
+| [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
