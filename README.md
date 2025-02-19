@@ -33,6 +33,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -114,6 +115,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Dynamic Programming
 |  |
 | ------- |
+| [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Indexed Tree
 |  |
