@@ -14,6 +14,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TanmaySawankar390/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
@@ -25,6 +26,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0001-two-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -141,4 +143,8 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
