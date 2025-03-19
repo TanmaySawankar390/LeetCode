@@ -21,6 +21,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## String
 |  |
 | ------- |
@@ -43,6 +45,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2365-percentage-of-letter-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2365-percentage-of-letter-in-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3468-find-the-encrypted-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/3468-find-the-encrypted-string) |
 | [3709-find-special-substring-of-length-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/3709-find-special-substring-of-length-k) |
 ## Trie
@@ -96,6 +99,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Greedy
 |  |
 | ------- |
