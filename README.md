@@ -22,6 +22,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3438-peaks-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/3438-peaks-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,10 +139,12 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
+| [3438-peaks-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/3438-peaks-in-array) |
 ## Segment Tree
 |  |
 | ------- |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
+| [3438-peaks-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/3438-peaks-in-array) |
 ## Ordered Set
 |  |
 | ------- |
