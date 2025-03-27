@@ -13,6 +13,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -109,6 +110,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TanmaySawankar390/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
@@ -119,6 +121,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Backtracking
@@ -133,11 +136,13 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Indexed Tree
