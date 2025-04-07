@@ -48,6 +48,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0763-special-binary-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0763-special-binary-string) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
+| [0916-decoded-string-at-index](https://github.com/TanmaySawankar390/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [1647-can-convert-string-in-k-moves](https://github.com/TanmaySawankar390/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -66,6 +67,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmaySawankar390/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0916-decoded-string-at-index](https://github.com/TanmaySawankar390/LeetCode/tree/master/0916-decoded-string-at-index) |
 ## Math
 |  |
 | ------- |
