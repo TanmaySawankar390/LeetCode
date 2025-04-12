@@ -46,6 +46,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0481-magical-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0481-magical-string) |
 | [0763-special-binary-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0763-special-binary-string) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0916-decoded-string-at-index](https://github.com/TanmaySawankar390/LeetCode/tree/master/0916-decoded-string-at-index) |
@@ -85,6 +86,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0481-magical-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0481-magical-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
