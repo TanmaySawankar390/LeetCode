@@ -14,6 +14,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanmaySawankar390/LeetCode/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -34,6 +35,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0001-two-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1647-can-convert-string-in-k-moves](https://github.com/TanmaySawankar390/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
@@ -188,6 +190,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Linked List
 |  |
 | ------- |
