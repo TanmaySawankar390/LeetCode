@@ -10,6 +10,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0004-median-of-two-sorted-arrays](https://github.com/TanmaySawankar390/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TanmaySawankar390/LeetCode/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/TanmaySawankar390/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
@@ -88,6 +89,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0015-3sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/TanmaySawankar390/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/TanmaySawankar390/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
