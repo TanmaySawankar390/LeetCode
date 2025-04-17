@@ -15,6 +15,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanmaySawankar390/LeetCode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -159,6 +160,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -204,6 +206,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TanmaySawankar390/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/TanmaySawankar390/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
