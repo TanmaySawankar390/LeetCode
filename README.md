@@ -84,6 +84,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
