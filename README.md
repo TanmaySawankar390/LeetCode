@@ -23,6 +23,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
+| [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -88,6 +89,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0009-palindrome-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
+| [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Two Pointers
@@ -175,6 +177,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Indexed Tree
@@ -228,4 +231,12 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TanmaySawankar390/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
+## Bitmask
+|  |
+| ------- |
+| [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 <!---LeetCode Topics End-->
