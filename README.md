@@ -21,6 +21,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
@@ -41,6 +42,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -110,6 +112,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0015-3sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
@@ -201,6 +204,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Recursion
