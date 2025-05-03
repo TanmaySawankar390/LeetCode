@@ -25,6 +25,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -107,6 +108,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0481-magical-string) |
+| [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 ## Sorting
 |  |
@@ -185,6 +187,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Indexed Tree
@@ -251,4 +254,8 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
