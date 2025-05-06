@@ -25,6 +25,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
+| [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 | [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -46,6 +47,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
+| [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1647-can-convert-string-in-k-moves](https://github.com/TanmaySawankar390/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -64,6 +66,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-special-binary-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0763-special-binary-string) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
+| [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0916-decoded-string-at-index](https://github.com/TanmaySawankar390/LeetCode/tree/master/0916-decoded-string-at-index) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
@@ -128,6 +131,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmaySawankar390/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -258,4 +262,12 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
+## Union Find
+|  |
+| ------- |
+| [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 <!---LeetCode Topics End-->
