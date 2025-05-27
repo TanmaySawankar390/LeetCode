@@ -23,6 +23,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/TanmaySawankar390/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
@@ -184,6 +185,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/TanmaySawankar390/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
