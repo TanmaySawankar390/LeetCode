@@ -58,6 +58,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TanmaySawankar390/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/TanmaySawankar390/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
@@ -109,6 +110,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TanmaySawankar390/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/TanmaySawankar390/LeetCode/tree/master/0027-remove-element) |
@@ -194,6 +196,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/TanmaySawankar390/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
