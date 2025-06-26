@@ -68,6 +68,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0097-interleaving-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0394-decode-string) |
 | [0481-magical-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0481-magical-string) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0763-special-binary-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0763-special-binary-string) |
@@ -93,6 +94,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmaySawankar390/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0394-decode-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0916-decoded-string-at-index](https://github.com/TanmaySawankar390/LeetCode/tree/master/0916-decoded-string-at-index) |
 ## Math
@@ -236,6 +238,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0763-special-binary-string) |
 ## Matrix
 |  |
