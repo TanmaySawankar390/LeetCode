@@ -17,6 +17,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanmaySawankar390/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -104,6 +105,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0009-palindrome-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
