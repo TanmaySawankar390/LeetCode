@@ -31,6 +31,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 | [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [0932-monotonic-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0932-monotonic-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
