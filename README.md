@@ -112,6 +112,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2481-strictly-palindromic-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 ## Two Pointers
 |  |
@@ -131,6 +132,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
+| [2481-strictly-palindromic-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Sorting
 |  |
 | ------- |
@@ -301,4 +303,8 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
