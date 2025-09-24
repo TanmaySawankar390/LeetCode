@@ -51,6 +51,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
+| [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
@@ -110,6 +111,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/TanmaySawankar390/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
@@ -214,6 +216,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0097-interleaving-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
@@ -269,6 +272,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TanmaySawankar390/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 ## Merge Sort
 |  |
