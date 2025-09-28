@@ -23,6 +23,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TanmaySawankar390/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
@@ -281,6 +282,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0136-single-number) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 ## Bitmask
 |  |
