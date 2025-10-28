@@ -71,6 +71,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/TanmaySawankar390/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -111,6 +112,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/TanmaySawankar390/LeetCode/tree/master/0273-integer-to-english-words) |
@@ -217,6 +219,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0097-interleaving-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -251,6 +254,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Recursion
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/TanmaySawankar390/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0394-decode-string) |
 | [0763-special-binary-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0763-special-binary-string) |
@@ -316,4 +320,8 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [2481-strictly-palindromic-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/2481-strictly-palindromic-number) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
