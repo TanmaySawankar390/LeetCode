@@ -96,6 +96,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0386-lexicographical-numbers](https://github.com/TanmaySawankar390/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -160,6 +161,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmaySawankar390/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/TanmaySawankar390/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 ## Binary Tree
 |  |
