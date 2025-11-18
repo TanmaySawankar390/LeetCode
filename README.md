@@ -84,6 +84,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 | [0872-split-array-into-fibonacci-sequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0916-decoded-string-at-index](https://github.com/TanmaySawankar390/LeetCode/tree/master/0916-decoded-string-at-index) |
+| [1250-longest-common-subsequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [1647-can-convert-string-in-k-moves](https://github.com/TanmaySawankar390/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -232,6 +233,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
+| [1250-longest-common-subsequence](https://github.com/TanmaySawankar390/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1517-restore-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1517-restore-the-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 ## Binary Indexed Tree
