@@ -40,6 +40,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TanmaySawankar390/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -152,6 +153,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [1019-squares-of-a-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Tree
 |  |
@@ -183,6 +185,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2154-minimum-moves-to-convert-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2154-minimum-moves-to-convert-string) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2604-minimum-operations-to-make-array-equal-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/2604-minimum-operations-to-make-array-equal-ii) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Binary Search
@@ -192,6 +195,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2765-make-array-empty](https://github.com/TanmaySawankar390/LeetCode/tree/master/2765-make-array-empty) |
 ## Backtracking
 |  |
@@ -211,6 +215,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
+| [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
 |  |
 | ------- |
