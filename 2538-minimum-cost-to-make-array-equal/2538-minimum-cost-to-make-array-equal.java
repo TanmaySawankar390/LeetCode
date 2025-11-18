@@ -1,38 +1,32 @@
 class Solution {
     public long minCost(int[] nums, int[] cost) {
         int n = nums.length;
-
-        // Pair nums and cost
         int[][] arr = new int[n][2];
-        for (int i = 0; i < n; i++) {
+
+        for(int i = 0; i < n; i++){
             arr[i][0] = nums[i];
             arr[i][1] = cost[i];
         }
 
-        // Sort by nums[i]
-        Arrays.sort(arr, (a, b) -> Integer.compare(a[0], b[0]));
+        Arrays.sort(arr,(a,b) -> Integer.compare(a[0], b[0]));
 
         long totalCost = 0;
-        for (int[] x : arr) totalCost += x[1];
+        for(int[] x: arr) totalCost += x[1];
 
-        // Find weighted median
         long prefix = 0;
         int target = -1;
 
-        for (int i = 0; i < n; i++) {
+        for(int i = 0; i< n; i++){
             prefix += arr[i][1];
-            if (prefix * 2 >= totalCost) {
+            if(prefix * 2 >= totalCost){
                 target = arr[i][0];
                 break;
             }
         }
-
-        // Compute final cost using target
         long ans = 0;
-        for (int[] x : arr) {
+        for(int[] x: arr){
             ans += (long) Math.abs(x[0] - target) * x[1];
         }
-
         return ans;
     }
 }
