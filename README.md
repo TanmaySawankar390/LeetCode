@@ -28,6 +28,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0238-product-of-array-except-self](https://github.com/TanmaySawankar390/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
@@ -54,6 +55,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
@@ -120,6 +122,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/TanmaySawankar390/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0823-split-array-with-same-average](https://github.com/TanmaySawankar390/LeetCode/tree/master/0823-split-array-with-same-average) |
 | [2032-largest-odd-number-in-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2481-strictly-palindromic-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -215,6 +218,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TanmaySawankar390/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
