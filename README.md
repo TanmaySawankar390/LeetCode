@@ -35,6 +35,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
 | [0875-longest-mountain-in-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0932-monotonic-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0932-monotonic-array) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -61,6 +62,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0560-subarray-sum-equals-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0778-reorganize-string) |
 | [0869-similar-string-groups](https://github.com/TanmaySawankar390/LeetCode/tree/master/0869-similar-string-groups) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1647-can-convert-string-in-k-moves](https://github.com/TanmaySawankar390/LeetCode/tree/master/1647-can-convert-string-in-k-moves) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -223,6 +225,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
