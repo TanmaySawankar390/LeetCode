@@ -24,6 +24,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0118-pascals-triangle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TanmaySawankar390/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TanmaySawankar390/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
@@ -123,6 +124,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
@@ -145,6 +147,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0481-magical-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0481-magical-string) |
