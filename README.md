@@ -13,6 +13,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0027-remove-element](https://github.com/TanmaySawankar390/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/TanmaySawankar390/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/TanmaySawankar390/LeetCode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanmaySawankar390/LeetCode/tree/master/0046-permutations) |
@@ -207,6 +208,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TanmaySawankar390/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/TanmaySawankar390/LeetCode/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
