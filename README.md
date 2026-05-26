@@ -42,6 +42,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0974-subarray-sums-divisible-by-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/TanmaySawankar390/LeetCode/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1480-running-sum-of-1d-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/TanmaySawankar390/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -233,6 +234,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1480-running-sum-of-1d-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2530-minimize-maximum-of-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/2530-minimize-maximum-of-array) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/TanmaySawankar390/LeetCode/tree/master/2538-minimum-cost-to-make-array-equal) |
 ## Dynamic Programming
