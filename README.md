@@ -18,6 +18,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanmaySawankar390/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
+| [0057-insert-interval](https://github.com/TanmaySawankar390/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
