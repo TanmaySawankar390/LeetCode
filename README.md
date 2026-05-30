@@ -20,6 +20,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/TanmaySawankar390/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -82,6 +83,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0097-interleaving-string) |
 | [0151-reverse-words-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -191,6 +193,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/TanmaySawankar390/LeetCode/tree/master/2562-find-the-array-concatenation-value) |
