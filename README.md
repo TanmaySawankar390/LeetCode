@@ -84,6 +84,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/TanmaySawankar390/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
@@ -120,6 +121,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/TanmaySawankar390/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0394-decode-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0678-valid-parenthesis-string) |
@@ -251,6 +253,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TanmaySawankar390/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0032-longest-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
