@@ -86,6 +86,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/TanmaySawankar390/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/TanmaySawankar390/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/TanmaySawankar390/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
@@ -133,6 +134,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0007-reverse-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TanmaySawankar390/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/TanmaySawankar390/LeetCode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/TanmaySawankar390/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0189-rotate-array) |
@@ -198,6 +200,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/TanmaySawankar390/LeetCode/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/TanmaySawankar390/LeetCode/tree/master/0258-add-digits) |
 | [2232-adding-spaces-to-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/2232-adding-spaces-to-a-string) |
