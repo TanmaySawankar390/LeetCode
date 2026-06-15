@@ -33,6 +33,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0213-house-robber-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TanmaySawankar390/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0336-palindrome-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0384-shuffle-an-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0384-shuffle-an-array) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -67,6 +68,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0141-linked-list-cycle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0264-ugly-number-ii) |
+| [0336-palindrome-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/TanmaySawankar390/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +97,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0151-reverse-words-in-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/TanmaySawankar390/LeetCode/tree/master/0273-integer-to-english-words) |
+| [0336-palindrome-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0394-decode-string) |
@@ -119,6 +122,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/TanmaySawankar390/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0336-palindrome-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/0336-palindrome-pairs) |
 | [0386-lexicographical-numbers](https://github.com/TanmaySawankar390/LeetCode/tree/master/0386-lexicographical-numbers) |
 ## Stack
 |  |
@@ -384,4 +388,8 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0210-course-schedule-ii) |
+## Hash Function
+|  |
+| ------- |
+| [0336-palindrome-pairs](https://github.com/TanmaySawankar390/LeetCode/tree/master/0336-palindrome-pairs) |
 <!---LeetCode Topics End-->
