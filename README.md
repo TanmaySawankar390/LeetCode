@@ -18,6 +18,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0039-combination-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/TanmaySawankar390/LeetCode/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/TanmaySawankar390/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TanmaySawankar390/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/TanmaySawankar390/LeetCode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/TanmaySawankar390/LeetCode/tree/master/0066-plus-one) |
@@ -64,6 +65,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0001-two-sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/TanmaySawankar390/LeetCode/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/TanmaySawankar390/LeetCode/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/TanmaySawankar390/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/TanmaySawankar390/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/TanmaySawankar390/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
@@ -90,6 +92,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | [0032-longest-valid-parentheses](https://github.com/TanmaySawankar390/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/TanmaySawankar390/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/TanmaySawankar390/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/TanmaySawankar390/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/TanmaySawankar390/LeetCode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/TanmaySawankar390/LeetCode/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/TanmaySawankar390/LeetCode/tree/master/0087-scramble-string) |
@@ -180,6 +183,7 @@ This is my Leetcode Question solving GitHub Repository showcasing my daily perfo
 | ------- |
 | [0015-3sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/TanmaySawankar390/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/TanmaySawankar390/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/TanmaySawankar390/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/TanmaySawankar390/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/TanmaySawankar390/LeetCode/tree/master/0229-majority-element-ii) |
